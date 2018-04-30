@@ -1,5 +1,5 @@
 const CONFIG = {
-  CACHE_NAME: '0.0.2',
+  CACHE_NAME: '0.0.3',
   CACHE_URLS: [
     '/',
     '/assets/favicon.png',
